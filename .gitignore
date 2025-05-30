@@ -1,16 +1,3 @@
-[user]
-	email = pradyumnajekumar@gmail.com
-	name = pr4dyumn4
-[http]
-	postBuffer = 104857600
-	version = HTTP/1.1
-	sslVerify = true
-	lowSpeedLimit = 1000
-	lowSpeedTime = 60
-[core]
-	autocrlf = true
-	editor = code --wait
-
 # Logs
 logs
 *.log
