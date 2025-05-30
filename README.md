@@ -17,4 +17,4 @@
 - **Deleting Tasks**: Click the trash icon next to a task to delete it.
 - **Progress Tracker**: View the progress of your tasks in the progress tracker.
 
-![image](src/assets/webshot.jpg)
+![image](./src/assets/webshot.jpg)
