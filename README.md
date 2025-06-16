@@ -19,4 +19,4 @@
 - **Drag up and down**: click on emoji for up: 👆, for down: 👇
 - **Progress Tracker**: View the progress of your tasks in the progress tracker.
 
-![image](./src/assets/webshot.jpg)
+![image](https://raw.githubusercontent.com/pr4dyumn4/TaskBuddy/main/src/assets/webshot.jpg)
