@@ -1,15 +1,12 @@
+import React from "react";
+import TaskList from "./TaskList";
 import './index.css'
 import './App.css'
-import TaskList from './TaskList'
 function App() {
-  
-
   return (
-    <>
+    <div>
       <TaskList/>
-      
-    </>
-  )
+    </div>
+  );
 }
-
-export default App
+export default App;
