@@ -1,6 +1,6 @@
 import React,{ useState, useEffect } from 'react';
 
-function TaskList() {
+function TaskList({ analytics }) {
     const [tasks, setTasks] = useState([]);
     const [task, setTask] = useState("");
     const [toggle, setToggle] = useState([]);
@@ -29,6 +29,10 @@ function TaskList() {
     function addTask() {
         if (task.trim() !== "") {
             setTasks(t => [...t, task]);
+            analytics.track("Task Added", {
+            taskName: task,
+            totalTasks: tasks.length + 1
+        });
             setTask("");
         }
     }
