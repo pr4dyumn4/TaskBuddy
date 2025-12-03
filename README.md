@@ -19,5 +19,5 @@
 - **Drag up and down**: click on emoji for up: 👆, for down: 👇
 - **Progress Tracker**: View the progress of your tasks in the progress tracker.
 
-![image](https://ibb.co/L4cS4fq)
+
 
